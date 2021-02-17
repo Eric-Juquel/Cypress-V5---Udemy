@@ -1,0 +1,12 @@
+{
+  "name": "cypress-automation-framework",
+  "version": "1.0.0",
+  "description": "Cypress Automation Framework",
+  "main": "index.js",
+  "author": "Eric J.",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^6.4.0",
+    "cypress-xpath": "^1.6.2"
+  }
+}
