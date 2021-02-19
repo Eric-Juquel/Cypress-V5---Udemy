@@ -27,7 +27,7 @@ describe("Verify checkboxes via webdriveruni", () => {
     
   });
 
-  it.only("Check multiple checkboxes", () => {
+  it("Check multiple checkboxes", () => {
     cy.visit("http://www.webdriveruniversity.com");
     cy.get("#dropdown-checkboxes-radiobuttons")
       .invoke("removeAttr", "target")
