@@ -6,7 +6,7 @@
   "author": "Eric J.",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^6.4.0",
+    "cypress": "6.6.0",
     "cypress-xpath": "^1.6.2"
   }
 }
